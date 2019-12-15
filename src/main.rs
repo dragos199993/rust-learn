@@ -9,4 +9,5 @@ fn main() {
         name = "Christian",
         activity = "baseball"
     );
+    println!("{:?}", (12, "hello", true));
 }
