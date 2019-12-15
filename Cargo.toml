@@ -1,5 +1,5 @@
 [package]
-name = "Rust"
+name = "rust"
 version = "0.1.0"
 authors = ["Dragos <dragos199993@gmail.com>"]
 edition = "2018"
