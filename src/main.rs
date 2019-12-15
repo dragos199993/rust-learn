@@ -1,11 +1,11 @@
 // mod print;
 // mod types;
 // mod vars;
-mod arrays;
+mod vectors;
 
 fn main() {
     // print::run();
     // vars::run();
     // types::run()
-    arrays::run();
+    vectors::run();
 }
